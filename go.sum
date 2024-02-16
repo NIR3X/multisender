@@ -2,3 +2,5 @@ github.com/NIR3X/filecache v0.0.0-20240131082506-a34e9431f49a h1:98eF80UNliRoE5Q
 github.com/NIR3X/filecache v0.0.0-20240131082506-a34e9431f49a/go.mod h1:/wsBFdks0A8QB+QZsUs1OUSxOq4cTQEfcNPXlKRev3E=
 github.com/NIR3X/filecache v0.0.0-20240206221840-3f6191327f1b h1:UtGCJI1UBIZMlazQt0cJCuLG4J0+pqfy8GTJcXROPVI=
 github.com/NIR3X/filecache v0.0.0-20240206221840-3f6191327f1b/go.mod h1:/wsBFdks0A8QB+QZsUs1OUSxOq4cTQEfcNPXlKRev3E=
+github.com/NIR3X/filecache v0.0.0-20240216040239-cb1a4b36f9b8 h1:NzO1/eqGr9Nx00q/ovKmSaIeTbRxVDYl470/BsRPcEo=
+github.com/NIR3X/filecache v0.0.0-20240216040239-cb1a4b36f9b8/go.mod h1:/wsBFdks0A8QB+QZsUs1OUSxOq4cTQEfcNPXlKRev3E=
